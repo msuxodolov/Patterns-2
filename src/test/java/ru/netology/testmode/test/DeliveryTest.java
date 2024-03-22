@@ -33,7 +33,6 @@ class AuthTest {
         //  данными зарегистрированного активного пользователя, для заполнения полей формы используйте
         //  пользователя registeredUser
     }
-    //java -jar C:\Users\Zadachi\patterns2\artifacts\java -jar app-ibank.jar -P:profile=test
 
     @Test
     @DisplayName("Should get error message if login with not registered user")
